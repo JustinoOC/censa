@@ -1,0 +1,7 @@
+Listado de rutas de carpetas
+El n£mero de serie del volumen es C540-E430
+C:.
+ÀÄÄÄProyecto
+    ÃÄÄÄpunto1
+    ÃÄÄÄpunto2
+    ÀÄÄÄpunto3
